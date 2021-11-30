@@ -1,0 +1,2 @@
+Prefix plugins/RUTA/example
+Plugin RUTA inputfile parameters.txt outputfile output.pdf
